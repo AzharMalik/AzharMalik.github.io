@@ -27,7 +27,7 @@
             <p style="color: #108cf7;">BISE GRW</p>
             <p>Enables monumental achievements to work better in the professional field.</p>
         </ul> 
-        <h2 style="color: #108cf7;">Employment</h2>
+        <h2 style="color: #108cf7!important;">Employment</h2>
         <ul>
             <li><strong style="color: #108cf7;">Jan 2022 - Aug 2023</strong> - Personal Secretary at MNR DESIGN STUDIO</li>
             <p>• Report and present findings making recommendations for solutions and improvements to procedures.</p>
