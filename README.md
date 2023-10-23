@@ -82,8 +82,23 @@
             <p>Fully Customization website, Product Research, Product Listing, Optimization - Inventory Management, and also Managing PPC campaigns.</p>
         </ul>
 
-<h3 align="left">Connect with me:</h3>
-<p>🏠 Address: <strong>Pakistan</strong></p>
+<h3 align="left"> <p>Gender: <strong>Male</strong></p>
+    <h2>Education</h2>
+    <ul>
+        <li><strong>2023</strong> - Advance Diploma in Culinary Arts</li>
+        <p> <strong> <b>Scholar Education & Technical Council</b> </strong> </p>
+        <p>Capable of managing all aspects of food preparation, cooking, plating, presentation, and service.</p>
+        <li><strong>2020</strong> - BS(IT) Information Technology</li>
+        <p><strong>The Superior College Lahore</strong></p>
+        <p>Produce competence in planning, customizing, operating, administering, and maintaining information. Also, streamline work processes.</p>
+        <li><strong>2015</strong> - INTERMEDIATE</li>
+        <p> <strong>BISE GRW</strong></p>
+        <p>Statement which describes a specific, measurable, and realistic level of knowledge.</p>
+        <li><strong>2013</strong> - MATRICULATION</li>
+        <p> <strong>BISE GRW</strong></p>
+        <p>Enables monumental achievements to work better in the professional field.</p>
+    </ul> </h3>
+Pakistan
     <p>Gender: <strong>Male</strong></p>
     <h2>Education</h2>
     <ul>
