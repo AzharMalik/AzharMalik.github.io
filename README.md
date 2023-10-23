@@ -12,7 +12,7 @@
  <p>📧 Email: <strong>azharmalik4444@gmail.com</strong></p>
         <p>🏠 Address: <strong>Pakistan</strong></p>
         <p>Gender: <strong>Male</strong></p>
-        <h2 style="text-color:#0366d6;">Education</h2>
+        <h2>Education</h2>
         <ul>
             <li><strong>2023</strong> - Advance Diploma in Culinary Arts</li>
             <p> <strong>Scholar Education & Technical Council</strong></p>
@@ -29,16 +29,16 @@
         </ul> 
         <h2><strong>Employment</strong></h2>
         <ul>
-            <li><strong style="color: #108cf7;">Jan 2022 - Aug 2023</strong> - Personal Secretary at MNR DESIGN STUDIO</li>
+            <li><strong>Jan 2022 - Aug 2023 - Personal Secretary at MNR DESIGN STUDIO </strong></li>
             <p>• Report and present findings making recommendations for solutions and improvements to procedures.</p>
             <p>• Verify payments and deposits made through the company account and coordinate with the bank.</p>
             <p>• Ensure the business complies with all relevant internal requirements, forecasting & budgeting, including variance analysis.</p>
             <p>• Keeping Managerial accounting and finance activities. Expert in the installation of various software and other operating programs.</p>
-            <li><strong style="color: #108cf7;">Oct 2020 - Nov 2021</strong> - Computer Operator at YARN KING PVT</li>
+            <li><strong>Oct 2020 - Nov 2021 - Computer Operator at YARN KING PVT </strong></li>
             <p>• Provided first-hand support on all computer equipment and printers and also the ability to analyze and perform minor repairs on computers.</p>
             <p>• Created documents such as bills, invoices, payables, receivables, and purchase orders. Updated documents and databases.</p>
         </ul>
-        <h2> <b>Skills</b></h2>
+        <h2>Skills</h2>
         <ul>
             <li>HTML5</li>
             <li>CSS3</li>
@@ -51,30 +51,30 @@
             <li>MS-POWERPOINT</li>
             <li>Knife Skill</li>
         </ul>   
-        <h2 style="color: #108cf7;">Languages</h2>
+        <h2>Languages</h2>
         <ul>
             <li>ENGLISH</li>
             <li>URDU</li>
         </ul>
-        <h2 style="color: #108cf7;">Certificates</h2>
+        <h2">Certificates</h2>
         <ul>
-            <li><strong style="color: #108cf7;">2021</strong> - Website Designing at Technical Education & Vocational Training Authority (TEVTA) Light Engineering Service Center.</li>
+            <li><strong>2021 - Website Designing at Technical Education & Vocational Training Authority (TEVTA) Light Engineering Service Center.</strong></li>
             <p>Influencing the behaviour of your visitors, structuring every element on the website around an overall goal, typically selling a product or having visitors sign up for something.</p>
-            <li><strong style="color: #108cf7;">2018</strong> - Professional for Microsoft Office (TDCP) at The Tourism Development Corporation of Punjab LTD.</li>
+            <li><strong>2018 - Professional for Microsoft Office (TDCP) at The Tourism Development Corporation of Punjab LTD.</strong></li>
             <p>Will be able to create documents for printing/sharing/presenting and also manage and store data.</p>
-            <li><strong>2017</strong> - Galactic Problem Solver (NASA) at International Space App Challenges.</li>
+            <li><strong>2017 - Galactic Problem Solver (NASA) at International Space App Challenges.</strong></li>
             <p>In special appreciation for efforts to address challenges on and off Planet Earth, by providing solutions that help industries work better.</p>
         </ul>
-        <h2 style="color: #108cf7;">Achievements</h2>
+        <h2>Achievements</h2>
         <ul>
-            <li style="color: #108cf7;"><strong >2020</strong> - AMAZON Product Hunter</li>
+            <li><strong >2020 - AMAZON Product Hunter</strong></li>
             <p>Serve consumers through online stores and focus on selection, price, and convenience. Outlines the company/customer obsession rather than the competitor focus, passion for invention, commitment to operational excellence, and long-term thinking.</p>
-            <li style="color: #108cf7;"><strong>2018</strong> - EFFECTIVE ENTERPRISE RESOURCE PLANNING FOR SMEs (EERP) at Small & Medium Enterprise Development Authority (SMEDA)</li>
+            <li><strong>2018 - EFFECTIVE ENTERPRISE RESOURCE PLANNING FOR SMEs (EERP) at Small & Medium Enterprise Development Authority (SMEDA)</strong></li>
             <p>Helps to increase the efficiency of an organization by managing and improving how company resources are utilized. Provides companies the ability to store their operational data and workflows.</p>
-            <li style="color: #108cf7;"><strong>2017</strong> - STARTING AND MANAGING RESTAURANT BUSINESS (GCCI)</li>
-            <p>Increase your product service's market share, provide opportunities for teams to improve their leadership skills and strength.</p>
+            <li><strong>2017 - STARTING AND MANAGING RESTAURANT BUSINESS (GCCI)</strong></li>
+            <p>Increase your product service's market share, and provide opportunities for teams to improve their leadership skills and strength.</p>
         </ul>
-        <h2 style="color: #108cf7;">Extracurricular Activities</h2>
+        <h2>Extracurricular Activities</h2>
         <ul>
             <li>Website Developer & Photoshop Editor at FIVERR (<a href="https://www.fiverr.com/mr_developer0?" target="_blank">Fiverr Profile</a>)</li>
             <p>Designing, implementing, and managing websites using (CMS) WordPress. Monitored website performance and handled troubleshooting and other issues.</p>
