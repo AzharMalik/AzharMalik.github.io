@@ -10,6 +10,12 @@
             background-color: #f5f5f5;
             text-align: center;
         }
+        body{
+  padding: 25px;
+}
+.title {
+	color: #5C6AC4;
+}
         h1 {
             color: #333;
         }
