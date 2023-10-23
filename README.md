@@ -78,7 +78,7 @@
         <ul>
             <li>Website Developer & Photoshop Editor at FIVERR (<a href="https://www.fiverr.com/mr_developer0?" target="_blank">Fiverr Profile</a>)</li>
             <p>Designing, implementing, and managing websites using (CMS) WordPress. Monitored website performance and handled troubleshooting and other issues.</p>
-            <li>Virtual Assistant (E-commerce) for E-com, Ebay, Daraz, Shopify</li>
+            <li>Virtual Assistant (E-commerce) for E-com, Ebay, Daraz, Shopify (<a href="https://www.futuredeals.online/" target="_blank">Shopify</a>)</li>
             <p>Fully Customization website, Product Research, Product Listing, Optimization - Inventory Management, and also Managing PPC campaigns.</p>
         </ul>
 
