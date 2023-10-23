@@ -11,6 +11,7 @@
 - 📫 How to reach me **azharmalik4444@gmail.com**
 - 🏠 Address: <strong>Pakistan</strong>
 -  Gender: <strong>Male</strong>
+-  <strong>Education</strong>
 
  <ul>
         <li><strong>2023</strong> - Advance Diploma in Culinary Arts</li>
