@@ -9,7 +9,7 @@
 - 📝 I regularly write articles on [https://bestskydrones.com/](https://bestskydrones.com/)
 
 - 📫 How to reach me **azharmalik4444@gmail.com**
- <p>📧 Email: <strong>azharmalik4444@gmail.com</strong></p>
+  📧 Email: <strong>azharmalik4444@gmail.com</strong>
         <p>🏠 Address: <strong>Pakistan</strong></p>
         <p>Gender: <strong>Male</strong></p>
         <h2>Education</h2>
