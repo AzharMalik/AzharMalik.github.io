@@ -15,7 +15,7 @@
         <h2>Education</h2>
         <ul>
             <li><strong>2023</strong> - Advance Diploma in Culinary Arts</li>
-            <p> <strong>Scholar Education & Technical Council</strong></p>
+            <p> <strong> <b>Scholar Education & Technical Council</b> </strong> </p>
             <p>Capable of managing all aspects of food preparation, cooking, plating, presentation, and service.</p>
             <li><strong>2020</strong> - BS(IT) Information Technology</li>
             <p><strong>The Superior College Lahore</strong></p>
