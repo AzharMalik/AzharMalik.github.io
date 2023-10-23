@@ -15,19 +15,19 @@
         <h2 style="color: blue;">Education</h2>
         <ul>
             <li><strong>2023</strong> - Advance Diploma in Culinary Arts</li>
-            <p style="color: #108cf7;">Scholar Education & Technical Council</p>
+            <p> <strong>Scholar Education & Technical Council</strong></p>
             <p>Capable of managing all aspects of food preparation, cooking, plating, presentation, and service.</p>
             <li><strong>2020</strong> - BS(IT) Information Technology</li>
-            <p style="color: #108cf7;">The Superior College Lahore</p>
-            <p>Produce competence in planning, customizing, operating, administering, and maintaining information. Also streamline work processes.</p>
+            <p><strong>The Superior College Lahore</strong></p>
+            <p>Produce competence in planning, customizing, operating, administering, and maintaining information. Also, streamline work processes.</p>
             <li><strong>2015</strong> - INTERMEDIATE</li>
-            <p style="color: #108cf7;">BISE GRW</p>
+            <p> <strong>BISE GRW</strong></p>
             <p>Statement which describes a specific, measurable, and realistic level of knowledge.</p>
             <li><strong>2013</strong> - MATRICULATION</li>
-            <p style="color: #108cf7;">BISE GRW</p>
+            <p> <strong>BISE GRW</strong></p>
             <p>Enables monumental achievements to work better in the professional field.</p>
         </ul> 
-        <h2 style="color: #108cf7!important;">Employment</h2>
+        <h2><strong>Employment</strong></h2>
         <ul>
             <li><strong style="color: #108cf7;">Jan 2022 - Aug 2023</strong> - Personal Secretary at MNR DESIGN STUDIO</li>
             <p>• Report and present findings making recommendations for solutions and improvements to procedures.</p>
@@ -38,7 +38,7 @@
             <p>• Provided first-hand support on all computer equipment and printers and also the ability to analyze and perform minor repairs on computers.</p>
             <p>• Created documents such as bills, invoices, payables, receivables, and purchase orders. Updated documents and databases.</p>
         </ul>
-        <h2 style="color: #108cf7;">Skills</h2>
+        <h2> <b>Skills</b></h2>
         <ul>
             <li>HTML5</li>
             <li>CSS3</li>
