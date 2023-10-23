@@ -12,7 +12,7 @@
  <p>📧 Email: <strong>azharmalik4444@gmail.com</strong></p>
         <p>🏠 Address: <strong>Pakistan</strong></p>
         <p>Gender: <strong>Male</strong></p>
-        <h2 style="color: blue;">Education</h2>
+        <h2 color: #0366d6;>Education</h2>
         <ul>
             <li><strong>2023</strong> - Advance Diploma in Culinary Arts</li>
             <p> <strong>Scholar Education & Technical Council</strong></p>
