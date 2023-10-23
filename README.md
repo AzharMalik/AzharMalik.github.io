@@ -9,9 +9,8 @@
 - 📝 I regularly write articles on [https://bestskydrones.com/](https://bestskydrones.com/)
 
 - 📫 How to reach me **azharmalik4444@gmail.com**
-  📧 Email: <strong>azharmalik4444@gmail.com</strong>
-        <p>🏠 Address: <strong>Pakistan</strong></p>
-        <p>Gender: <strong>Male</strong></p>
+ 🏠 Address: <strong>Pakistan</strong>
+  Gender: <strong>Male</strong>
         <h2>Education</h2>
         <ul>
             <li><strong>2023</strong> - Advance Diploma in Culinary Arts</li>
