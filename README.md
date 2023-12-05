@@ -28,27 +28,27 @@
     </ul> 
     <h2><strong>Employment</strong></h2>
     <ul>
-        <li><strong>Jan 2022 - Aug 2023 - Personal Secretary at MNR DESIGN STUDIO </strong></li>
-        <p>• Report and present findings making recommendations for solutions and improvements to procedures.</p>
-        <p>• Verify payments and deposits made through the company account and coordinate with the bank.</p>
-        <p>• Ensure the business complies with all relevant internal requirements, forecasting & budgeting, including variance analysis.</p>
-        <p>• Keeping Managerial accounting and finance activities. Expert in the installation of various software and other operating programs.</p>
+        <li><strong>Jan 2023 - Nov 2023 - Assistant Chef at IMRAN BAR B-Q Best Chicken Cottage </strong></li>
+        <p>• Prepare and  cook  food items    according  to  recipes  and  standards.</p>
+        <p>• Maintained high standers of  customer service    during high-volume, fast-paced operations.</p>
+        <p>• Communicate clearly and positively with coworkers and management.</p>
+        <p>• Sustain  cleanliness  and  hygiene  of   the  kitchen  and   equipment.</p>
         <li><strong>Oct 2020 - Nov 2021 - Computer Operator at YARN KING PVT </strong></li>
         <p>• Provided first-hand support on all computer equipment and printers and also the ability to analyze and perform minor repairs on computers.</p>
         <p>• Created documents such as bills, invoices, payables, receivables, and purchase orders. Updated documents and databases.</p>
     </ul>
     <h2>Skills</h2>
     <ul>
-        <li>HTML5</li>
-        <li>CSS3</li>
-        <li>BOOTSTRAP4</li>
-        <li>PHP</li>
-        <li>WORDPRESS</li>
-        <li>PHOTOSHOP</li>
-        <li>MS-WORD</li>
-        <li>MS-EXCEL</li>
-        <li>MS-POWERPOINT</li>
-        <li>Knife Skill</li>
+        <li>Food presentation </li>
+        <li>Food Safety</li>
+        <li>Team Management </li>
+        <li>Knife skill</li>
+        <li>Customer Services</li>
+        <li>MS-Excel</li>
+        <li>MS-Powerpoint</li>
+        <li>WordPress</li>
+        <li>HTML</li>
+        <li>CSS</li>
     </ul>   
     <h2>Languages</h2>
     <ul>
@@ -60,18 +60,18 @@
         <li><strong>2021 - Website Designing at Technical Education & Vocational Training Authority (TEVTA) Light Engineering Service Center.</strong></li>
         <p>Influencing the behaviour of your visitors, structuring every element on the website around an overall goal, typically selling a product or having visitors sign up for something.</p>
         <li><strong>2018 - Professional for Microsoft Office (TDCP) at The Tourism Development Corporation of Punjab LTD.</strong></li>
-        <p>Will be able to create documents for printing/sharing/presenting and also manage and store data.</p>
+        <p>Will be able to create documents for printing/sharing/presenting and manage and store data.</p>
         <li><strong>2017 - Galactic Problem Solver (NASA) at International Space App Challenges.</strong></li>
         <p>In special appreciation for efforts to address challenges on and off Planet Earth, by providing solutions that help industries work better.</p>
     </ul>
     <h2>Achievements</h2>
     <ul>
-        <li><strong >2020 - AMAZON Product Hunter</strong></li>
+        <li><strong >2020 - Product Hunter</strong></li>
         <p>Serve consumers through online stores and focus on selection, price, and convenience. Outlines the company/customer obsession rather than the competitor focus, passion for invention, commitment to operational excellence, and long-term thinking.</p>
         <li><strong>2018 - EFFECTIVE ENTERPRISE RESOURCE PLANNING FOR SMEs (EERP) at Small & Medium Enterprise Development Authority (SMEDA)</strong></li>
         <p>Helps to increase the efficiency of an organization by managing and improving how company resources are utilized. Provides companies the ability to store their operational data and workflows.</p>
         <li><strong>2017 - STARTING AND MANAGING RESTAURANT BUSINESS (GCCI)</strong></li>
-        <p>Increase your product service's market share, and provide opportunities for teams to improve their leadership skills and strength.</p>
+        <p>Increase your product service's market share, and allow teams to improve their leadership skills and strength.</p>
     </ul>
     <h2>Extracurricular Activities</h2>
     <ul>
